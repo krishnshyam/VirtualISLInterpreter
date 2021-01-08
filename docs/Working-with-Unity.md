@@ -11,20 +11,20 @@ The steps required to get started with the project on Unity:
   * SELECT THE FBX FILE AND GO TO THE INSPECTOR(TAB)
   * SELECT RIG(TAB) UNDER INSPECTOR AND CHANGE THE ANIMATION TYPE TO HUMANOID  AND SELECT APPLY .
       
-      ![Alt text](docs/img/1.jpeg?raw=true "1")
+      ![Alt text](docs/img/1.jpg?raw=true "1")
   * SELECT ANIMATION(TAB) UNDER INSPECTOR AND SCROLL DOWN TO FIND ROOT TRANSFORM ROTATION OPTION.
       
-      ![Alt text](docs/img/2.jpeg?raw=true "2")
+      ![Alt text](docs/img/2.jpg?raw=true "2")
   * SELECT THE CHECK BOX FOR BAKE INTO POSE FOR ALL 3 ROOT TRANSFORM OPTIONS AND 
   * CHANGE THE ROOT MOTION NODE FROM <NONE> TO <ROOT TRANDSFORM> UNDER MOTION AS SHOWN IN THE BELOW PICTURE 
       
-      ![Alt text](docs/img/3.jpeg?raw=true "3")
+      ![Alt text](docs/img/3.jpg?raw=true "3")
   * NOW SELECT THE ANIMATION FILE IN THE PROJECT(TAB) AND LEFT CLICK THE FILE AND DRAG AND DROP THE FILE INSIDE ANIMATOR(TAB) AND A NEW ANIMATION STATE WILL BE CREATE, WHICH WILL BE USED TO PLAY THE ANIMATION WHICH IS CONTROLLED BY THE ANIMATOR CONTROLLER
       
-      ![Alt text](docs/img/4.jpeg?raw=true "4")
+      ![Alt text](docs/img/4.jpg?raw=true "4")
   * TO CREATE ANIMATOR CONTROLLER , RIGHT CLICK INSIDE THE PROJECT(TAB) -> CREATE ->ANIMATOR CONTROLLER AS SHOWN IN THE PICTURE BELOW
       
-      ![Alt text](docs/img/5.jpeg?raw=true "5")
+      ![Alt text](docs/img/5.jpg?raw=true "5")
 
 
 # ASSETS 
