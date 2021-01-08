@@ -45,7 +45,7 @@ def setmessage(message):
 
 def send_text(event):
     entered_text = textentry.get()
-    output = translate_text(entered_text)
+    output = translate_text(entered_text).upper()
     textoutput.config(text=output)
     
     #OPTIONAL: Send code to animation demo
