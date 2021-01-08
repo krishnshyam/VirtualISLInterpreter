@@ -49,6 +49,9 @@ Alternatively, to run with the executable animation demo:
 * enter English text in the box available and click Go
 * the output animation should play on the isl.exe app
 
+### Working With Actual Animations
+
+Please refer to [Working with Animations in Unity](docs/Working-with-Unity.md) for detailed information on how to set up the Unity project to work with the animations for editing and adding new animations
 
 
 ## Additional Data
