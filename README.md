@@ -62,7 +62,7 @@ Please read [CONTRIBUTING.md](TODO) for details on our code of conduct, and the 
 ## Authors
 
 * **Shyam Krishna** - *Translation* - https://github.com/shyamkrishna
-* **Mahesh** - * Unity Game Engine & Animation* - https://github.com/kiddowhy
+* **Mahesh** - *Unity Game Engine & Animation* - https://github.com/kiddowhy
 * **Rahul** - *Animation* - TODO
 
 
