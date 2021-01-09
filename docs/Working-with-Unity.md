@@ -4,32 +4,34 @@ Note: To use the animations with expression, LipSyncPro is required to be instal
 
 The steps required to get started with the project on Unity:
 
-* ANIMATION FILE CREATED IN BLENDER SOFTWARE AS .FBX FILES ARE IMPORTED INTO UNITY PROJECT .
-* ALL THE FBX FILES MUST BE CHANGED FROM GENRIC (DEFAULT) TO HUMANOID IN ANIMATION TYPE ,THIS MAKES THE ANIMATION ON ONE MODEL TO BE RETARGETTED TO DIFFERENT MODEL
-* TO DO THAT:
-  * UPLOAD/IMPORT THE FBX FILE INSIDE A FOLDER IN  PROJECT(TAB)
-  * SELECT THE FBX FILE AND GO TO THE INSPECTOR(TAB)
-  * SELECT RIG(TAB) UNDER INSPECTOR AND CHANGE THE ANIMATION TYPE TO HUMANOID  AND SELECT APPLY .
+* Animation file created in blender software as .fbx files are imported into Unity project .
+* All the fbx files must be changed from genric (default) to humanoid in animation type This makes the animation on one model to be retargetted to different model
+*To do that:
+  * Upload/import the fbx file inside a folder in  project(tab)
+  * Select the fbx file and go to the inspector(tab)
+  * Select rig(tab) under inspector and change the animation type to humanoid  and select apply .
       
-      ![Alt text](img/1.jpg?raw=true "1")
-  * SELECT ANIMATION(TAB) UNDER INSPECTOR AND SCROLL DOWN TO FIND ROOT TRANSFORM ROTATION OPTION.
+      ![alt text](img/1.jpg?raw=true "1")
+  * Select animation(tab) under inspector and scroll down to find root transform rotation option.
       
-      ![Alt text](img/2.jpg?raw=true "2")
-  * SELECT THE CHECK BOX FOR BAKE INTO POSE FOR ALL 3 ROOT TRANSFORM OPTIONS AND 
-  * CHANGE THE ROOT MOTION NODE FROM <NONE> TO <ROOT TRANDSFORM> UNDER MOTION AS SHOWN IN THE BELOW PICTURE 
+      ![alt text](img/2.jpg?raw=true "2")
+  * Select the check box for bake into pose for all 3 root transform options and 
+  * Change the root motion node from <none> to <root transform> under motion as shown in the below picture 
       
-      ![Alt text](img/3.jpg?raw=true "3")
-  * NOW SELECT THE ANIMATION FILE IN THE PROJECT(TAB) AND LEFT CLICK THE FILE AND DRAG AND DROP THE FILE INSIDE ANIMATOR(TAB) AND A NEW ANIMATION STATE WILL BE CREATE, WHICH WILL BE USED TO PLAY THE ANIMATION WHICH IS CONTROLLED BY THE ANIMATOR CONTROLLER
+      ![alt text](img/3.jpg?raw=true "3")
+  * Now select the animation file in the project(tab) and left click the file and drag and drop the file inside animator(tab) and a new animation state will be create, Which will be used to play the animation which is controlled by the animator controller
       
-      ![Alt text](img/4.jpg?raw=true "4")
-  * TO CREATE ANIMATOR CONTROLLER , RIGHT CLICK INSIDE THE PROJECT(TAB) -> CREATE ->ANIMATOR CONTROLLER AS SHOWN IN THE PICTURE BELOW
+      ![alt text](img/4.jpg?raw=true "4")
+  * To create animator controller , right click inside the project(tab) -> create ->animator controller as shown in the picture below
       
-      ![Alt text](img/5.jpg?raw=true "5")
+      ![alt text](img/5.jpg?raw=true "5")
 
 
-# ASSETS 
-1. LipSyncPro
-• APPLICATION USES LipSyncPro (ANIMATION TOOL) TO CREATE FACIAL EXPRESSION DATA (LipSyncPro DATA) THANKS TO THIS ASSET WE ARE ABLE TO RETARGET FACIAL EXPRESSION BETWEEN DIFFERENT MODEL. 
-• APPLICATION ALSO USES EYE CONTROLLER COMPONENT WHICH IS A FREE ADD ON WHEN YOU PURCHASE LipSyncPro , EYE CONTROLLER COMPONENT IS USED TO BLINK EYES WITH PREDETERMINED INTERVALS AND DURATION OF THE BLINK ANIMATION.
+# assets 
+1. Lipsync-pro
+• Application uses Lipsync-pro (animation tool) to create facial expression data (Lipsync-pro data) thanks to this asset we are able to retarget facial expression between different model. 
+• Application also uses Eye controller component which is an add-on included when you purchase Lipsync-pro , Eye controller component is used to blink eyes with predetermined intervals and duration of the blink animation.
+
+
 
 https://assetstore.unity.com/packages/tools/animation/lipsync-pro-32117
