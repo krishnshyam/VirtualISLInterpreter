@@ -66,17 +66,9 @@ Please read [CONTRIBUTING.md](TODO) for details on our code of conduct, and the 
 
 * **Shyam Krishna** - *Translation* - https://github.com/shyamkrishna
 * **Mahesh** - *Unity Game Engine & Animation* - https://github.com/kiddowhy
-* **Rahul** - *Animation* - TODO
-
-
-See also the list of [contributors](TODO) who participated in this project.
-
-## License
-
-This project is licensed under the TODO License - see the [LICENSE.md](LICENSE.md) file for details
+* **Rahul** - *Animation* 
 
 ## Acknowledgments
 
 * This work was made possible by a CSR grant from Mphasis
-* TODO?
 
